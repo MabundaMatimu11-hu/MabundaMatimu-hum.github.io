@@ -103,6 +103,16 @@ ________________________________________________________________________________
 
 ## **Agile Team Charter**
 
+![Agile Team Charter](./charter6.png)
+
+![Agile Team Charter](./charter7.png)
+
+![Agile Team Charter](./charter8.png)
+
+![Agile Team Charter](./charter9.png)
+
+![Agile Team Charter](./charter10.png)
+
 ### **Purpose**
 The goal of WaterWatch is to create a user-focused water monitoring system that solves the problem of not seeing how much water is being used at home in Cape Town. The project is about giving households access to information about how much water they use. This can help people understand how they use water find leaks and make choices about saving water.
 

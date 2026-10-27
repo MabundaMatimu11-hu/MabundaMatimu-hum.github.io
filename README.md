@@ -155,6 +155,7 @@ The idea behind WaterWatch is to help people make choices about using water by g
 
 
 ## **Team Roles and Responsibilities**
+
 | Team Members | Agile Role | Responsibilities |
 |---|---|---|
 |Matimu Mabunda|Project Manager (Scrum Master) | Helps make sure that everyone follows the plan, keeps track of what needs to be done, looks at the task list, finds problems and helps fix them, makes sure people talk to each other and work together, and keeps finding ways to do better.
@@ -302,6 +303,7 @@ Not every team member may know how to work with sensors or process data. Buildin
 **Prototype-level scope:** The project is not meant to be built as a ready-to-use device. We are working on ideas and prototypes. This means we cannot test sensor performance in a physical setup. We will be limited to what's possible, with simulations or small-scale testing.
 
 ## **Mitigation Strategies**
+
 | Risk  | Mitigation strategy | Mitigation strategy |
 |---|---|---|
 Unequal contribution | Assign task ownership, monitor progress, and raise workload concerns early. | Balanced work allocation and clearer accountability.
